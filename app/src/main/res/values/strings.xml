@@ -1,0 +1,481 @@
+<resources>
+    <string name="welcome_msg">Welcome!</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="contacts_permission_rationale">Access to account information is required to sign in.</string>
+    <string name="invite_menu_label">Invite</string>
+    <string name="invitation_message">Please join me for a friendly chat</string>
+    <string name="invitation_cta">Call to action</string>
+    <string name="invitation_title">Friendly Chat Invite</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="fresh_config">Fresh Config</string>
+    <string name="cause_crash">Cause Crash</string>
+    <string name="banner_ad_unit_id" translatable="false">ca-app-pub-3940256099942544/6300978111</string>
+
+    <string name="app_name">Avanza sin drogas</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Avanza sin drogas</string>
+    <string name="nav_header_subtitle">Avanzasindrogas2311@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Ayuda</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="image_header">%1$s  %2$s</string>
+    <string name="bacon_ipsum">
+        Bacon ipsum dolor sit amet venison shankle pork chop meatball tri-tip beef ribs turducken.
+        Strip steak ball tip boudin shank, turducken leberkas pork chop beef ribs ham hock sausage
+        frankfurter prosciutto doner ham. Bacon landjaeger ball tip, andouille chuck beef ribs jowl
+        kevin tri-tip turkey biltong frankfurter sausage. Boudin pork belly meatloaf chicken cow
+        tri-tip kielbasa shoulder. Pork loin pig boudin hamburger pastrami short ribs. Sirloin
+        tongue pork loin chicken spare ribs bresaola pastrami.\n\n
+        Tenderloin turducken pork chop, pork belly beef ribs brisket ham. Turducken landjaeger short
+        loin capicola pancetta pork chop strip steak rump meatloaf brisket kevin doner short ribs
+        salami. Beef prosciutto flank leberkas landjaeger swine. Fatback prosciutto sausage, jerky
+        tail tongue hamburger jowl biltong shank pork belly swine filet mignon chicken ground round.
+        Pork chop porchetta ground round tri-tip tail t-bone.\n\n
+        Landjaeger rump bacon salami sausage pork loin pig brisket strip steak corned beef. Biltong
+        sirloin meatloaf ribeye, bresaola cow chicken t-bone frankfurter andouille strip steak jerky
+        capicola. Ribeye porchetta strip steak boudin. Kielbasa cow brisket pastrami ball tip
+        tenderloin bresaola ham. Biltong andouille chuck ham hock jerky beef chicken, flank shankle
+        ball tip venison porchetta kevin fatback kielbasa. Boudin tongue ground round, turkey pork
+        belly salami corned beef pork tri-tip meatloaf sausage andouille strip steak pig. Spare ribs
+        beef meatloaf rump sausage doner frankfurter.\n\n
+        Fatback porchetta pork loin meatball, turducken pork chop drumstick boudin. Kevin tri-tip
+        ground round corned beef, ribeye swine filet mignon salami pork spare ribs pork chop
+        brisket. Filet mignon shankle t-bone bacon. Turducken capicola turkey porchetta kielbasa
+        shank pork loin jerky venison tenderloin boudin ham hock ground round.</string>
+    <string name="start">Finalizar</string>
+    <string name="next">Siguiente</string>
+
+    <string name="title_activity_result">ResultActivity</string>
+    <string name="dummy_button">Volver al menu</string>
+    <string name="dummy_content">El resultado de la prueba indica que hay un 60% de posibilidades del consumo de drogas!</string>
+
+    <string name="q1">¿Ha percibido cambios de conducta o comportamientos muy repentinos últimamente en su hijo(a)?</string>
+    <string name="q2">¿Ha notado a su hijo(a) más agresivo cuando nunca no lo ha sido?</string>
+    <string name="q3">¿Ha notado a su hijo más retraído cuando nunca no lo ha sido?</string>
+    <string name="q4">¿Percibe usted alteraciones de sueño en su hijo(a), cuando no es una persona ocupada?</string>
+    <string name="q5">¿Ha notado a su hijo(a) acelerado más de lo normal?</string>
+    <string name="q6">¿Últimamente ha empezado a pedir y a exigir más dinero sin justa causa?</string>
+    <string name="q7">¿Ha consumido usted SPA (Drogas Psicoactivas) alguna vez?</string>
+    <string name="q8">¿Qué opinión  tiene usted de las drogas?</string>
+    <string name="q9">¿Ha hablado usted con su hijo(a) sobre el tema de las drogas?</string>
+    <string name="q10">¿Tiene usted conocimientos sobre los efectos y alteraciones de conducta de cada tipo de droga?</string>
+
+    <string name="Cigarrillo">\n<b><big><font color="#303030" size="21">¿Qué es?</font></big></b>\n\nProducto del tabaco en forma de tubo que se fabrica con hojas de tabaco curadas,
+                                                      firmemente enrolladas en una envoltura de hoja de tabaco o una envoltura que
+                                                      contiene tabaco. También puede tener otros ingredientes, como sustancias para
+                                                      añadirle diferentes sabores. Un cigarro se enciende en un extremo y se fuma pero,
+                                                      por lo general, no se inhala hacia los pulmones. Los cigarrillos contienen nicotina y
+                                                      muchos productos químicos que causan cáncer y que son perjudiciales tanto para
+                                                      los fumadores como para quienes no fuman. \n\nFumar cigarrillos puede producir
+                                                      adicción a la nicotina y causar cáncer de boca, laringe, esófago, pulmón y páncreas.
+                                                      Fumar muchos cigarrillos también puede aumentar el riesgo de cardiopatías y
+                                                      enfermedades pulmonares, como el enfisema y la bronquitis crónica.
+                                                      Rango de edad en la que se empieza fumar:\n\nEl Departamento Nacional de Estadísticas, DANE, reveló que muchos colombianos
+                                                      comienzan a fumar cigarrillo a los 10 años de edad.
+                                                      Este informe, obtenido de la encuesta de calidad de vida realizada por la entidad en
+                                                      2017, concluyó que el 7,0% de los encuestados de 10 años afirmaron fumar actualmente.\n\n<b><big><font color="#303030" size="21">Efectos</font></big></b>\nEstos son los principales efectos dañinos que causa el cigarrillo en las personas:\n\n<b>•Afecta el sistema broncopulmonar y el cardiovascular.</b>Fumar es la principal causa de cáncer en los pulmones, la laringe, el aparato urinario y los órganos digestivos.\n\n<b>•Provoca efectos malignos en la mucosa oral.</b> Debido al calor que se produce por la combustión del cigarrillo, por ejemplo la gingivitis y la periodontitis.\n\n<b>•Aumenta el riesgo de padecer enfisema, EPOC, bronquitis crónica y úlcera péptica.</b> Además, predispone a la arteriosclerosis coronaria, cerebral y arterial periférico.\n\n<b>•Incrementa la posibilidad de contraer úlceras en el estómago, enfermedad del corazón y de los vasos sanguíneos.</b> A su vez, disminuye las defensas y la inmunidad frente a algunas infecciones.\n\n
+•Causa arrugas por la degradación de las fibras elásticas, aliento desagradable, dientes amarillos, tez cerosa y grisácea y cicatrización menor.\n\n
+        <b>Agrava la intensidad, la frecuencia y el ritmo del asma</b>, desencadenando esta enfermedad o bien causando que los que la padecen se sientan más propensos a comenzar un cuadro asmático.\n\n<b><big><font color="#303030" size="21">Duración del efecto en el cuerpo:</font></big></b>\n\nAl consumir un cigarrillo la nicotina se absorbe en tu torrente sanguíneo. A partir de ahí, las enzimas en tu hígado convierten la nicotina en cotinina. Esta sustancia se puede detectar en el cuerpo hasta tres meses después de la última ingestión. El tiempo que permanezca en tu sistema dependerá de cómo se consumió la nicotina y con qué frecuencia.\n
+
+    </string>
+
+    <string name="Barbituricos"></string>
+    <string name="Marihuana">
+
+ \n<b><big><font color="#303030" size="21">¿Qué es la marihuana sintética?</font></big></b>\n\n
+Marihuana sintética es una droga de diseño en el que las hierbas, incienso u otros
+materiales de hoja son rociados con productos químicos líquidos de laboratorio de
+síntesis para imitar el efecto de tetrahidrocannabinol (THC).\n\n
+
+<b><big><font color="#303030" size="21">Otros nombres:</font></big></b>\n\nMarihuana sintética, también conocido por el nombre de Spice o K2.\n\n
+
+<b><big><font color="#303030" size="21">Su comercialización</font></big></b>\n\n
+
+Se comercializa con frecuencia como un incienso en coloridos bolsas tres onzas y
+etiquetado, no para el consumo humano.\n\n
+Los pacientes mostraron diversos grados de catatonia (una incapacidad para
+responder a la estimulación verbal o física, incluyendo dolor, un ritmo cardíaco
+elevado, agitación, ansiedad, mareo, dolor de cabeza, sudoración excesiva.\n\n
+
+No se conocen los efectos a largo plazo de la marihuana sintética sobre la
+reproducción, el desarrollo del cáncer, la memoria o el potencial de adicción.
+Spice/K2 también puede aumentar la presión arterial y causar la reducción del
+suministro de sangre al corazón (isquemia miocárdica), y en unos pocos casos se
+ha asociado con ataques al corazón.
+
+    </string>
+    <string name="dos_cb">
+
+\n<b><big><font color="#303030" size="21">Efectos</font></big></b>
+Produce unos efectos entre la LSD,. Sus efectos psicodélicos no son tan intensos
+como los del LSD,. A dosis bajas predominan los efectos estimulantes y de “buen
+rollo”, y los efectos psicodélicos se acrecientan a dosis más altas.\n\n<b><big><font color="#303030" size="22">Subida</font></big></b>\n\n
+Los efectos tardan más, y dependiendo de si se tiene el estómago vacío o lleno,
+puede tardar en subir entre 1 y 2 horas.\n\n
+<b><big><font color="#303030" size="21">Durante la subida:</font></big></b>\n\n
+        <b>o</b> Sensación de inquietud pasajera.\n
+        <b>o</b> Aumento de la energía en el    cuerpo.\n
+        <b>o</b> Sensación de comenzar a percibir las cosas de distinta manera a la cotidiana.\n\n
+<b><big><font color="#303030" size="21">Durante la experiencia:</font></big></b>\n\n
+        <b>o</b> Dilatación de las pupilas.\n
+        <b>o</b> Patrones visuales con ojos    abiertos y cerrados.\n
+        <b>o</b> Estimulación mental.\n
+        <b>o</b> Nuevas formas de ver las cosas.\n
+        <b>o</b> Sensación de perspicacia.\n
+        <b>o</b> Cambios emocionales (buen humor o introspección).\n\n
+Los efectos suelen durar entre 4 y 8 horas y, en total, suelen transcurrir unas 8-10
+horas desde la ingesta hasta que se retorna al estado inicial, siempre dependiendo
+de la dosis y de la persona.\n\n
+Al inicio de la experiencia puede darse una sensación de inquietud pasajera y un
+aumento de la energía en el cuerpo, así como la sensación de comenzar a percibir
+las cosas de distinta manera a la cotidiana. Posteriormente, se provoca una amplia
+variedad de efectos: dilatación de las pupilas, patrones visuales etc.\n\n
+
+<b><big><font color="#303030" size="21">Posología</font></big></b>\n\n
+
+        <b>•</b> Habitual: entre 5 y 20 mg por vía       oral.\n
+        <b>•</b> Baja: hasta los 10 miligramos.\n
+        <b>•</b> Moderada: desde los 10 a los 24       miligramos.\n
+        <b>•</b> Alta: de 25 a 40 miligramos.\n
+
+
+
+    </string>
+    <string name="kokodril">
+
+        \nEs también conocida popularmente como krokodil, crocodile, droga zombi, droga caníbal o heroína de los pobres.\n\n
+Su principal característica es carcomer la piel de los adictos hasta dejar los huesos
+expuestos. La piel de los consumidores se torna verdosa y comienza y a
+despegarse, tal como la textura de algunos reptiles, de allí viene su nombre alusivo
+al cocodrilo.\n\n
+
+       <b><big><font color="#303030" size="21">Efectos</font></big></b>\n\n“Los efectos de esta droga duran dos horas y son tan nefastos que a sus
+consumidores se les conoce como los ‘nuevos zombis’, y según estudios, sus
+efectos son tan nocivos para el cuerpo humano que pueden ocasionar la muerte a
+los dos años de consumo continuo. Esta droga es inyectable y está hecha de
+fósforo, codeína.\n\nEl grado de daño sobre tejidos es tan elevado, que la expectativa de vida de los
+adictos a esta mezcla es por lo común tan baja como dos o tres años. Una dosis de krokodil cuesta entre tres y cinco veces menos que una dosis de
+heroína.\n\n
+
+        <b><big><font color="#303030" size="21">¿Cómo se obtiene?</font></big></b>\n\nEl Krokodil es elaborado de manera casera: surge de la combinación de
+comprimidos de codeína con varios productos químicos tóxicos, tales como líquido
+de encendedor o fósforo rojo y limpiadores industriales.\n\n
+
+        <b><big><font color="#303030" size="21">Un gran problema...</font></big></b>\n\nLa dependencia a esta droga, que se aplica de manera intravenosa, se presenta
+inmediatamente después de la primera dosis.
+Se estima que los adictos ya sobrepasan la cifra de un millón de personas. su
+esperanza de vida no pasa de los tres años.
+
+
+
+
+
+    </string>
+
+
+    <string name="barturicos">
+        <b><big><font color="#303030" size="21">¿Qué son?</font></big></b>\n\n
+Los barbitúricos son un grupo de sustancias sintéticas fabricadas como productos
+farmacéuticos, depresores del Sistema Nervioso Central que se encuentran
+íntimamente relacionados en su estructura química. Se diferencias en la velocidad
+de inicio de sus efectos, en la duración de acción y en la potencia.\n\n
+<b><big><font color="#303030" size="21">Efectos:</font></big></b>\n\n
+El consumo de estas sustancias puede provocar una serie de efectos secundarios
+de gran relevancia, que pueden incluso llevar a la muerte. Algunos de dichos
+efectos pueden ser los siguientes.\n\n
+
+<b><big><font color="#303030" size="21">Sedación excesiva</font></big></b>\n\n
+Los barbitúricos han llegado a ser utilizados como anestésico debido a su poderoso
+efecto sedante. Si bien en ocasiones esto puede ser buscado, puede suponer un
+perjuicio de cara al correcto funcionamiento y rendimiento personal al provocar una
+somnolencia excesiva que reduce las capacidades físicas y mentales del individuo.
+Pueden provocar leves parálisis y hormigueos en diferentes partes del cuerpo.\n\n
+
+<b><big><font color="#303030" size="21">Descoordinación de diferentes funciones</font></big></b>\n\n
+El consumo de barbitúricos puede provocar la existencia de problemas de
+coordinación física, siendo más complicado caminar o incluso hablar. No debe
+conducirse bajo los efectos de este tipo de medicación aún si no se da somnolencia.\n\n
+
+<b><big><font color="#303030" size="21">Problemas cardiorespiratorios</font></big></b>\n\n
+Los barbitúricos son psicofármacos de gran potencia como depresores del sistema
+nervioso, tal y como acabamos de comentar. Sin embargo, esta depresión puede
+llegar a generar problemas de tipo respiratorio, e incluso en casos extremos se corre
+el riesgo de entrar en parada cardiorrespiratoria.\n\n
+
+<b><big><font color="#303030" size="21">Desinhibición conductual</font></big></b>\n\n
+Si bien por norma general los barbitúricos generan efectos depresores en el sistema
+nervioso que se dan al sujeto en algunas personas pueden producir un elevado nivel
+de desinhibición conductual, lo que puede provocar la realización de acciones que
+en circunstancias normales no se llevarían a cabo. De hecho, han sido utilizados
+como supuestos "sueros de la verdad".\n\n
+
+<b><big><font color="#303030" size="21">Riesgo de dependencia</font></big></b>\n\n
+El potencial adictivo de este tipo de sustancias es muy elevado, generando
+dependencia con gran facilidad. Asimismo resulta sencillo cometer abusos en su
+consumo, cosa especialmente peligrosa con esta medicación. El motivo principal es
+el elevado nivel de tolerancia que tiende a provocar, que hace que se necesite cada
+vez de una mayor cantidad para lograr los mismos efectos que en las primeras
+tomas.\n\n
+
+<b><big><font color="#303030" size="21">Tipos y duración:</font></big></b>\n\n
+Los barbitúricos, al igual que otros medicamentos, pueden clasificarse en varios
+grupos según cuanto tardan en hacer efecto y cuanto duran los efectos. Sin
+embargo, aún cuando terminan los efectos, sus características provocan que
+puedan permanecer en el organismo largo tiempo. Podemos identificar 4 tipos de
+barbitúricos.\n\n
+
+<b><big><font color="#303030" size="18">•Acción ultracorta:</font></big></b> Los barbitúricos de acción ultracorta se caracterizan por tener una vida media de
+varios minutos de duración, iniciándose sus efectos segundos después del
+consumo. Dentro de este grupo podemos encontrar el tiopental y metohexital.\n\n
+
+<b><big><font color="#303030" size="18">•Acción corta:</font></big></b> Se conocen como de acción corta aquellos barbitúricos como hexobarbital,
+pentobarbital o secobarbital, los cuales inician sus efectos entre diez y quince
+minutos tras su consumo para perdurar durante alrededor de 3 o 4 horas.\n\n
+
+<b><big><font color="#303030" size="18">•Acción intermedia:</font></big></b> Los barbitúricos de acción intermedia suelen tardar alrededor de una hora en hacer
+efecto, durando entre 6 y 8 horas. Dentro de este tipo de barbitúricos encontramos
+uno de los más conocidos y empleados en diversos procedimientos como el test de
+Wada, el amobarbital.n\n
+
+<b><big><font color="#303030" size="18">•Acción larga:</font></big></b> El primidone y el fenobarbital son algunos de los ejemplos de barbitúricos de acción
+larga, que suelen tardar más de una hora en hacer efecto, pero que sin embargo
+tienden a durar alrededor de 12 horas.
+
+
+    </string>
+
+
+    <string name="inhalantes">
+
+        <b><big><font color="#303030" size="21">¿Qué es?</font></big></b>\n\n
+
+Los inhalantes son sustancias cuyos vapores se huelen o se aspiran. La mayoría
+son productos comunes que se usan en el hogar o en el trabajo, tales como los
+desodorantes en aerosol o "spray", el spray para el pelo, los líquidos para limpiar
+muebles, los marcadores de tinta permanente, los quitaesmaltes, esmaltes de uñas,
+pegamentos, pintura en spray o pulverizada y la gasolina.\n\n
+Las personas abusan de estas sustancias porque pueden causar un efecto de
+embriaguez o excitación seguido por una sensación de tranquilidad. Sin embargo,
+estas sustancias son extremadamente dañinas. Uno de los principales peligros de
+los inhalantes es que los niños los pueden obtener prácticamente en cualquier parte.\n\n
+<b><big><font color="#303030" size="21">Efectos:</font></big></b>\n\n
+<b><big>•</big></b>Causa daños severos al cerebro y al sistema nervioso porque impiden que el
+cerebro reciba el oxígeno que necesita.\n\n
+<b><big>•</big></b>Acelerar los latidos cardíacos, de manera que el corazón pierda su ritmo normal.\n\n
+<b><big>•</big></b>Causa problemas en la memoria, en la capacidad para solucionar problemas y en
+la coordinación.\n\n
+<b><big>•</big></b>Causan convulsiones, coma y muerte súbita, aún después de una sola sesión de
+inhalación prolongada.\n\n
+<b><big>•</big></b>Cambios en el estado de ánimo, como indiferencia respecto a todo (apatía),
+comportamiento violento o depresión.\n\n
+
+<b><big><font color="#303030" size="21">Edad en que se empieza a consumir:</font></big></b>\n\n
+Aunque los adultos abusan de inhalantes, son sobre todo los jóvenes quienes
+buscan estos compuestos para abusar de ellos. La edad media del primer consumo
+es de 13 años. Por desgracia, los jóvenes no suelen tener la suficiente experiencia y
+conocimiento para saber acerca de los daños que están o que puedan estar
+haciéndose a sí mismos al abusar de inhalantes.\n\n
+
+<b><big><font color="#303030" size="21">El abuso de los inhalantes:</font></big></b>\n\n
+Una persona que tiene la intención de abusar de una de estas sustancias,
+probablemente utilizará sólo uno entre varios métodos: rociarse directamente en la
+nariz o la boca; colocando un trapo empapado con la sustancia en la boca, rociar la
+sustancia en una bolsa y luego inhalarla del saco, o esnifar o inhalar los humos
+directamente de un recipiente. Es normalmente un colocón de corta duración que
+debe ser repetido una y otra vez, durante varias horas.
+
+
+    </string>
+
+
+    <string name="diccionario_jergas">
+
+        En la actualidad, los jóvenes de nuestros días buscan diferentes maneras de como
+decirle a cada tipo de droga que existe en el mercado, lo cual ocasiona de que los
+adolescentes tengan más de mil maneras para que así sus propios padres o las
+personas a su alrededor, no se enteren que están consumiendo este vicio.\n\n
+En este apartado, te dejamos algunas de las jergas o nombres que los jóvenes de
+hoy en día pueden utilizar para referirse a una determinada droga.\n\n
+Cabe aclarar que no se encuentran todas las jergas de todas las sustancias
+psicoactivas. Más adelantante en un futuro, se tratará de implementar el resto.\n\n
+
+<b><big><font color="#303030" size="21">2-CB - COCAÍNA:</font></big></b>\n\n
+<b><big>•</big></b>Nieve\n
+<b><big>•</big></b>Coca\n
+<b><big>•</big></b>Cocacola\n
+<b><big>•</big></b>Blanda
+<b><big>•</big></b>Crack\n
+<b><big>•</big></b>Azúcar\n
+<b><big>•</big></b>Base\n
+<b><big>•</big></b>Brisa\n
+<b><big>•</big></b>Canelón\n
+<b><big>•</big></b>Intensificada\n
+<b><big>•</big></b>Cocaína\n
+<b><big>•</big></b>Diamante (la cocaína más pura)\n
+<b><big>•</big></b>Cocazo\n
+<b><big>•</big></b>Diosa blanca\n
+<b><big>•</big></b>Kilómetro\n\n
+
+<b><big><font color="#303030" size="21">BARBITÚRICO:</font></big></b>\n\n
+<b><big>•</big></b>Barbs\n
+<b><big>•</big></b>Demonios azules\n
+<b><big>•</big></b>Bajones\n
+<b><big>•</big></b>Demonios rojos/amarillos\n
+<b><big>•</big></b>Dolls\n
+<b><big>•</big></b>Sleepers\n\n
+
+<b><big><font color="#303030" size="21">INHALANTES:</font></big></b>\n\n
+<b><big>•</big></b>Aguarrás\n
+<b><big>•</big></b>Aspirar\n
+<b><big>•</big></b>Cementerio\n
+<b><big>•</big></b>Cementero\n
+<b><big>•</big></b>Cemento\n
+<b><big>•</big></b>Cola\n
+<b><big>•</big></b>Cruz azul\n
+<b><big>•</big></b>Chemo\n
+<b><big>•</big></b>Chemear\n
+<b><big>•</big></b>Chuco\n
+<b><big>•</big></b>Flan\n
+<b><big>•</big></b>Flexo\n
+<b><big>•</big></b>Husmear.\n\n
+
+<b><big><font color="#303030" size="21">KROKODIL:</font></big></b>\n\n
+<b><big>•</big></b>Vainillita\n
+<b><big>•</big></b>Coquito\n
+<b><big>•</big></b>Fresita.\n\n
+
+<b><big><font color="#303030" size="21">MARIHUANA:</font></big></b>\n\n
+<b><big>•</big></b>Yerba\n
+<b><big>•</big></b>Grifa\n
+<b><big>•</big></b>Verde\n
+<b><big>•</big></b>Cachito\n
+<b><big>•</big></b>Café\n
+<b><big>•</big></b>Cámara\n
+<b><big>•</big></b>Cáñamo indio\n
+<b><big>•</big></b>Chicarra\n
+<b><big>•</big></b>Diosa verde\n
+<b><big>•</big></b>La hoja\n
+<b><big>•</big></b>Juanita\n
+<b><big>•</big></b>Ladrillo\n
+<b><big>•</big></b>Lechugo\n
+<b><big>•</big></b>Leño\n
+<b><big>•</big></b>Lucas\n
+<b><big>•</big></b>Mafafa\n
+<b><big>•</big></b>Manteca\n
+<b><big>•</big></b>Maria Juana\n
+<b><big>•</big></b>Punto rojo\n
+<b><big>•</big></b>Marimba\n
+<b><big>•</big></b>Mariquita\n
+<b><big>•</big></b>Material\n
+<b><big>•</big></b>Matraca\n
+<b><big>•</big></b>Pasto\n
+<b><big>•</big></b>Pitillo\n
+<b><big>•</big></b>Pito\n
+<b><big>•</big></b>Pitusa\n
+<b><big>•</big></b>Rama\n
+<b><big>•</big></b>Rosa\n
+<b><big>•</big></b>María\n
+<b><big>•</big></b>Semáforo\n
+<b><big>•</big></b>Tabaco\n
+<b><big>•</big></b>Tabique\n
+<b><big>•</big></b>Té\n
+<b><big>•</big></b>Tocola\n
+<b><big>•</big></b>Yerba buena.\n\n
+
+<b><big><font color="#303030" size="21">HEROÍNA:</font></big></b>\n\n
+<b><big>•</big></b>China\n
+<b><big>•</big></b>Negra\n
+<b><big>•</big></b>Caballo\n
+<b><big>•</big></b>Nieve\n
+<b><big>•</big></b>Amo\n
+<b><big>•</big></b>Cohete\n
+<b><big>•</big></b>Pasta\n
+<b><big>•</big></b>Achimia\n
+<b><big>•</big></b>Alquitrán\n
+<b><big>•</big></b>Amarillas\n
+<b><big>•</big></b>Arpón\n
+<b><big>•</big></b>Azúcar\n
+<b><big>•</big></b>Basura\n
+<b><big>•</big></b>Brea negra\n
+<b><big>•</big></b>Caballo\n
+<b><big>•</big></b>Certificada\n
+<b><big>•</big></b>Chapapote\n
+<b><big>•</big></b>Enrique grande\n
+<b><big>•</big></b>Goma\n
+<b><big>•</big></b>Hero\n
+<b><big>•</big></b>Heroica\n
+<b><big>•</big></b>Malilla.\n\n
+
+<b><big><font color="#303030" size="21">EXTASIS:</font></big></b>\n\n
+<b><big>•</big></b>Adan - Adam\n
+<b><big>•</big></b>Ecstasy\n
+<b><big>•</big></b>Extra\n
+<b><big>•</big></b>La Droga Del Amor\n
+<b><big>•</big></b>Mandy/Molly/Mickey\n
+<b><big>•</big></b>Matraca\n
+<b><big>•</big></b>Pasti\n
+<b><big>•</big></b>Rola\n
+<b><big>•</big></b>Tachas\n
+<b><big>•</big></b>Tachuelas\n
+<b><big>•</big></b>Taxi\n
+<b><big>•</big></b>Tracas\n
+<b><big>•</big></b>Triki Trakets\n
+<b><big>•</big></b>Xtc\n
+<b><big>•</big></b>X--- Ex.\n\n
+
+
+<b><big><font color="#303030" size="21">Algunas jergas extras:</font></big></b>\n\n
+
+<b><big>•</big>CAMELLO:></b>El que transporta la droga.\n
+<b><big>•</big>CHAVOS:</b> Dinero.\n
+<b><big>•</big>DÍLER:</b> Vendedor de droga.\n
+<b><big>•</big>DULCES:</b> Pastillas en general.\n
+<b><big>•</big>MAL VIAJE:</b> Experiencia inquietante asociada con el uso de drogas psicodélicas.\n
+<b><big>•</big>METODISTA:</b> Alguien que se mete en todo.\n
+<b><big>•</big>PASTAS:</b> pastillas.\n
+<b><big>•</big>PONEDOR:</b> Adj. denota la calidad de una droga.\n
+<b><big>•</big>PUNTO:</b> Lugar de venta.\n
+<b><big>•</big>YONQUI:</b> Drogadicto.
+
+    </string>
+
+
+    <string name="mision">
+        Por medio de nuestra aplicación queremos promover el conocimiento de diferentes
+        tipos de drogas psicoactivas para que los padres de familia tomen conciencia acerca
+        de los riesgos que pueden correr sus hijos, y así, se puedan disminuir los índices de
+        drogadicción en menores de edad.
+    </string>
+    <string name="vision">
+        Para el año 2022, se espera que los padres de familia a nivel nacional manejan la
+        aplicación y puedan hacer uso de ella, de tal manera que haya un decremento en
+        los datos estadísticos con respecto al uso y consumo de sustancias psicoactivas.
+    </string>
+    <string name="Objetivos">
+        Brindar a  toda lo comunidad educativa del colegio Manuel quintero penilla, capacitaciones
+        sobre los efectos nocivos al consumo de sustancias psicoactivas para que haya conciencia por
+        parte de no solamente los estudiantes sino  también del profesorado y padres de familia,
+        a través de charlas de prevención que les permita tener herramientas de juicio que hagan crear
+        resistencia al consumo. Además Proporcionar a los preadolescentes la información necesaria mediante
+        el empleo de estrategias preventivas que le permitan llevar una vida libre de drogas, alcoholismo y violencia estableciendo relaciones positivas entre la familia, su entorno social y las autoridades.
+    </string>
+    <string name="autores_del_proyecto">AUTORES DEL PROYECTO</string>
+    <string name="ndres_berrio_rojas">Ándres Berrio Rojas</string>
+    <string name="ndres_es_un_estudiante_de_la_instituci_n_educativa_byron_gaviria_tiene_17_a_os_le_gusta_el_futbol_aspira_entrar_a_la_universidad_a_estudiar_medicina">Ándres es un estudiante de la institución educativa byron gaviria, tiene 17 años. Le gusta el futbol, aspira entrar a la universidad a estudiar Medicina.</string>
+    <string name="valentina_es_una_estudiante_de_la_instituci_n_educativa_byron_gaviria_tiene_17_a_os_le_gusta_la_gimnasia_aspira_entrar_a_la_universidad_a_estudiar_medicina">Valentina es una estudiante de la Instituciòn Educativa Byron Gaviria, tiene 17 años. Le gusta la gimnasia, Aspira entrar a la universidad a estudiar Medicina.</string>
+    <string name="valentina_caldera_hinestrosa">Valentina Caldera Hinestroza</string>
+    <string name="kkik">kkik</string>
+    <string name="kkkk">kkkk</string>
+    <string name="cristhian_arboleda_casta_eda">Cristhian Arboleda Castañeda</string>
+    <string name="mkmkmknj">mkmkmknj</string>
+    <string name="hola">Hola</string>
+    <string name="prueba">prueba</string>
+    <string name="cristhian_es_un_estudiante_de_la_instituci_n_educativa_byron_gaviria_tiene_16_a_os_apasionado_por_programar_aspira_entrar_a_la_universidad_a_estudiar_ig_sistemas">Cristhian es un estudiante de la Institución Educativa Byron Gaviria, tiene 16 años. Apasionado por programar, aspira entrar a la universidad a estudiar Ig.Sistemas.</string>
+    <string name="ja">ja</string>
+    <string name="en_la_actualidad_los_j_venes_de_nuestros_d_as_buscan_diferentes_maneras_de_como_decirle_a_cada_tipo_de_droga_que_existe_en_el_mercado_lo_cual_ocasiona_de_que_los_adolescentes_tengan_m_s_de_mil_maneras_para_que_as_sus_propios_padres_o_las_personas_a_su_alrededor_no_se_enteren_que_est_n_consumiendo_este_vicio_en_este_apartado_te_dejamos_algunas_de_las_jergas_o_nombres_que_los_j_venes_de_hoy_en_d_a_pueden_utilizar_para_referirse_a_una_determinada_droga_cabe_aclarar_que_no_se_encuentran_todas_las_jergas_de_todas_las_sustancias_psicoactivas_m_s_adelantante_en_un_futuro_se_tratar_de_implementar_el_resto">
+       En la actualidad, los jóvenes de nuestros días buscan diferentes maneras de como decirle a cada tipo de droga que existe en el mercado, lo cual ocasiona de que los adolescentes tengan más de mil maneras para que así sus propios padres o las personas a su alrededor, no se enteren que están consumiendo este vicio.</string>
+    <string name="nieve_coca_cocacola_blanda_crack_az_car_base_brisa_canel_n_coca_intensificada_coca_na_diamante_la_coca_na_m_s_pura_cocazo_diosa_blanca_kil_metro">Nieve - Coca - Cocacola - Blanda - Crack - Azúcar - Base - Brisa - Canelón - Coca Intensificada - Cocaína Diamante (la cocaína más pura), Cocazo - Diosa blanca - Kilómetro.</string>
+    <string name="bibliografia"><b><big><font color="#303030" size="22">Información de las drogas:</font></big></b>\n\n- Castillero-Mimenza, O. Redactor especializado en Psicología Clínica. Barbitúricos: efectos, mecanismos de acción y toxicidad. Barcelona: Psicología y Mente.\n<b><i>ttps://psicologiaymente.com/psicofarmacologia/barbituricos.</i></b>\n\n- Robertson, S. Biomédica, Salud, Ciencias de la Vida. ¿Cuáles son los barbitúricos?. News Medical Life Sciences.\n<b><i>https://www.news-medical.net/health/What-are-Barbiturates-(Spanish).aspx.</i></b>\n\n- Barbitúricos. Última actualización el jueves, 20 Agosto 2015 8:39.Gobierno de Costa Rica Instituto Costarricense sobre Drogas.\n<b><i>http://www.icd.go.cr/portalicd/index.php/uid-observatorio/inf-uid/drogas/192- barbituricos</i></b>\n\n- Diccionario de Cáncer. Estados Unidos: Instituto Nacional Del Cáncer\n<b><i>https://www.cancer.gov/espanol/publicaciones/diccionario/def/cigarro.</i></b>\n\n- ¿A qué edad se empieza a fumar cigarrillo en Colombia?. 27 marzo, 2018. Bogotá - Colombia: Conexion Capital.\n<b><i>https://conexioncapital.co/edad-colombianos-empiezan-fumar-dane/</i></b>\n\n- Papa.Y. Los efectos nocivos del tabaco en la salud. 20 Agosto, 2013. Mejor con Salud.\n<b><i>https://mejorconsalud.com/los-efectos-nocivos-del-tabaco-en-la-salud/.</i></b>\n\n- Dr. Villarán,M. Coordinador de Epidemiología e Investigación en Oncosalud. ¿Cuánto tiempo tarda un cigarrillo en desaparecer de tu cuerpo?. Jueves 24 Mayo, 2018. Oncosalud Tu lucha, mi lucha.\n<b><i>https://blog.oncosalud.pe/cuanto-tiempo-tarda-un-cigarrillo-en-desaparecer-de-tu- cuerpo.</i></b>\n\n- Juventud latina - Hable con sus hijos sobre las drogas y sus peligros. National Institute On Drug Abuse - Advancing Addiction Science.\n<b><i>https://www.drugabuse.gov/es/publicaciones/juventud-latina/informacion-sobre-los- inhalantes</i></b>\n\n- Los inhalantes son una sustancia extraña a la cual volverse adicto, ya que no son, técnicamente, drogas en absoluto. Los Angeles, Estados Unidos: Narconon.\n<b><i>https://www.narconon.mx/informacion-drogas/inhalantes-informacion-y- adiccion.html”</i></b>\n\n\n<b><big><font color="#303030" size="22">Información de las Jergas</font></big></b>\n\n- Lic. Guilarte - Acosta, M. Lic. Leyna - Rodríguez, E. Lic. Perez - Sagó, A. Lic. Padrof - Leyva, M. Lic. Olman - Hernandez, E. Drogas: Glosario de Jergas y Testimonios. Hospital General Docente.\n\n<b><i>www.revinfcientifica.sld.cu/index.php/ric/article/download/487/885.</i></b>\n\n- Del Pilar Montes de Oca Sicilia, M. La Jerga de las Drogas. Junio 12, 2014. Algarabía.\n<b><i>https://algarabia.com/del-mes/la-jerga-de-las-drogas/.</i></b>\n\n- La Jergas de las Drogas. 20 Junio, 2014. Taringa.\n<b><i>https://www.taringa.net>Info.</i></b></string>
+</resources>

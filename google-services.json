@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "89490097902",
+    "firebase_url": "https://chat-drogas.firebaseio.com",
+    "project_id": "chat-drogas",
+    "storage_bucket": "chat-drogas.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:89490097902:android:fcbda7ece8ee9d3d",
+        "android_client_info": {
+          "package_name": "com.example.user1.infodrugs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "89490097902-f7pf1i1votbd7mdm7u07ekca8nupjpl0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.user1.infodrugs",
+            "certificate_hash": "df5bcc611bfdd32a9e0c93981d6a2e4439bf1dd1"
+          }
+        },
+        {
+          "client_id": "89490097902-kth5n1lipllh64ojsclk790gbmk8d3bl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtw_QARrLcyASvxG9xG7xahL5UKG12kjc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "89490097902-kth5n1lipllh64ojsclk790gbmk8d3bl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

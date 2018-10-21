@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_sites"
+            android:icon="@android:drawable/ic_dialog_map"
+            android:title="Lugares de ayuda" />
+        <item
+            android:id="@+id/nav_blog"
+            android:icon="@android:drawable/ic_dialog_email"
+            android:title="Blog" />
+
+        <item
+            android:id="@+id/nav_test"
+            android:icon="@android:drawable/ic_dialog_info"
+            android:title="Test" />
+
+
+        <item
+            android:id="@+id/nav_gergas"
+            android:icon="@android:drawable/ic_search_category_default"
+            android:title="Diccionario de jergas"/>
+
+        <item
+            android:id="@+id/nav_bibliografia"
+            android:icon="@android:drawable/ic_input_get"
+            android:title="Bibliografía"/>
+
+        <item
+            android:id="@+id/nav_guia_padres"
+            android:icon="@android:drawable/star_on"
+            android:title="Guia para padres"/>
+
+        <item
+            android:id="@+id/nav_autores"
+            android:icon="@mipmap/ic_users"
+            android:title="Autores" />
+
+    </group>
+
+</menu>

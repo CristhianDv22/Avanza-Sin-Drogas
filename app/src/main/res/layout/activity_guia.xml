@@ -1,0 +1,428 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".GuiaActivity">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="0dp"
+        tools:ignore="MissingConstraints">
+
+        <android.support.constraint.ConstraintLayout
+            android:id="@+id/linearLayout2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:id="@+id/textView13"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="16dp"
+                android:text="Guía Para Padres"
+                android:textAlignment="center"
+                android:textColor="@color/cardview_dark_background"
+                android:textSize="27sp"
+                android:textStyle="bold"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.0"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <TextView
+                android:id="@+id/textView14"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="12dp"
+                android:paddingLeft="15dp"
+                android:textSize="18sp"
+                android:paddingRight="15dp"
+                android:text="Saber como usar la aplicación es muy importante, Por eso en esta sección ustedes Padres de familia o acudientes pueden informarse de como usar la aplicación correctamente y los diferentes usos."
+                android:textAlignment="textStart"
+                app:layout_constraintTop_toBottomOf="@+id/textView13"
+                tools:layout_editor_absoluteX="0dp"
+                tools:ignore="MissingConstraints" />
+
+            <TextView
+                android:id="@+id/textView15"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="12dp"
+                android:textSize="18sp"
+                android:paddingLeft="15dp"
+                android:paddingRight="15dp"
+                android:text="A continuación se va a mostrar la funcionalidad de cada item o pestaña que tiene la aplicación Avanza sin Drogas:"
+                app:layout_constraintTop_toBottomOf="@+id/textView14"
+                tools:layout_editor_absoluteX="0dp"
+                tools:ignore="MissingConstraints" />
+
+            <TextView
+                android:id="@+id/textView16"
+                android:layout_width="match_parent"
+                android:layout_height="42dp"
+                android:layout_marginTop="36dp"
+                android:background="@color/colorAccent"
+                android:paddingLeft="15dp"
+                android:paddingTop="7dp"
+                android:text="Menú Principal"
+                android:textColor="#FFF"
+                android:textSize="22sp"
+                android:textStyle="bold"
+                app:layout_constraintTop_toBottomOf="@+id/textView15"
+                tools:ignore="MissingConstraints"
+                tools:layout_editor_absoluteX="101dp" />
+
+            <TextView
+                android:id="@+id/textView17"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="15dp"
+                android:textSize="18sp"
+                android:text="Al entrar a la aplicación verás este menú de inicio, es muy importante ya que contiene dos pestañas: Inicio y Droga. Aparte tiene el botón del menú desplegable. Como se muestra a continuación: "
+                app:layout_constraintTop_toBottomOf="@+id/textView16"
+                tools:layout_editor_absoluteX="0dp" />
+
+            <ImageView
+                android:id="@+id/imageView5"
+                android:layout_width="0dp"
+                android:layout_height="88dp"
+                android:layout_marginTop="4dp"
+                app:layout_constraintTop_toBottomOf="@+id/textView17"
+                app:srcCompat="@drawable/menu_principal"
+                tools:layout_editor_absoluteX="0dp" />
+
+            <TextView
+                android:id="@+id/textView33"
+                android:layout_width="match_parent"
+                android:layout_height="36dp"
+                android:layout_marginTop="20dp"
+                android:paddingLeft="15dp"
+                android:paddingTop="7dp"
+                android:text="Pestaña de Inicio"
+                android:textSize="22sp"
+                android:textStyle="bold"
+                app:layout_constraintTop_toBottomOf="@+id/imageView5"
+                tools:ignore="MissingConstraints"
+                tools:layout_editor_absoluteX="0dp" />
+
+            <TextView
+                android:id="@+id/textView19"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="15dp"
+                android:textSize="18sp"
+                android:paddingRight="15dp"
+                android:text="En la pestaña de Inicio se visualiza ¿Quienes somos?, también se visualiza la misión y visión de la aplicación."
+                app:layout_constraintTop_toBottomOf="@+id/textView33"
+                tools:layout_editor_absoluteX="0dp" />
+
+            <Button
+                android:id="@+id/button1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Ir a Lugares de Ayuda"
+                android:textColor="#000000"
+                android:layout_marginTop="10dp"
+                android:layout_marginLeft="40dp"
+                android:layout_marginRight="40dp"
+                android:background="@drawable/borde_redondo"
+                app:layout_constraintTop_toBottomOf="@+id/textView26"
+                tools:layout_editor_absoluteX="116dp"
+                tools:layout_editor_absoluteY="1540dp" />
+
+            <Button
+                android:id="@+id/button_blog"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Ir al Blog"
+                android:textColor="#000000"
+                android:layout_marginTop="10dp"
+                android:layout_marginLeft="40dp"
+                android:layout_marginRight="40dp"
+                android:background="@drawable/borde_redondo"
+                app:layout_constraintTop_toBottomOf="@+id/textView28"
+                tools:layout_editor_absoluteX="116dp"
+                tools:layout_editor_absoluteY="1540dp" />
+
+            <Button
+                android:id="@+id/button_test"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Ir al Test"
+                android:textColor="#000000"
+                android:layout_marginTop="10dp"
+                android:layout_marginLeft="40dp"
+                android:layout_marginRight="40dp"
+                android:background="@drawable/borde_redondo"
+                app:layout_constraintTop_toBottomOf="@+id/textView30"
+                tools:layout_editor_absoluteX="116dp"
+                tools:layout_editor_absoluteY="1540dp" />
+
+            <Button
+                android:id="@+id/button_diccionario"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Ir al Diccionario de Jergas"
+                android:textColor="#000000"
+                android:layout_marginTop="10dp"
+                android:layout_marginLeft="40dp"
+                android:layout_marginRight="40dp"
+                android:background="@drawable/borde_redondo"
+                app:layout_constraintTop_toBottomOf="@+id/textView32"
+                tools:layout_editor_absoluteX="116dp"
+                tools:layout_editor_absoluteY="1540dp" />
+
+            <Button
+                android:id="@+id/button_bibliografia"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Ir a la Bibliografía"
+                android:textColor="#000000"
+                android:layout_marginTop="10dp"
+                android:layout_marginLeft="40dp"
+                android:layout_marginRight="40dp"
+                android:background="@drawable/borde_redondo"
+                app:layout_constraintTop_toBottomOf="@+id/textView36"
+                tools:layout_editor_absoluteX="116dp"
+                tools:layout_editor_absoluteY="1540dp" />
+
+            <Button
+                android:id="@+id/button_autores"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Ir a los Autores"
+                android:textColor="#000000"
+                android:layout_marginTop="10dp"
+                android:layout_marginLeft="40dp"
+                android:layout_marginRight="40dp"
+                android:background="@drawable/borde_redondo"
+                app:layout_constraintTop_toBottomOf="@+id/textView38"
+                tools:layout_editor_absoluteX="116dp"
+                tools:layout_editor_absoluteY="1540dp" />
+
+            <TextView
+                android:id="@+id/textView20"
+                android:layout_width="match_parent"
+                android:layout_height="36dp"
+                android:layout_marginTop="10dp"
+                android:paddingLeft="15dp"
+                android:paddingTop="7dp"
+                android:text="Pestaña de Drogas"
+                android:textSize="22sp"
+                android:textStyle="bold"
+                app:layout_constraintTop_toBottomOf="@+id/textView19"
+                tools:ignore="MissingConstraints"
+                tools:layout_editor_absoluteX="0dp" />
+
+            <TextView
+                android:id="@+id/textView21"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="18sp"
+                android:paddingLeft="15dp"
+                android:paddingRight="15dp"
+                android:text="En la pestaña Drogas se encuentran algunas SPAS (Sustancias Psicoactivas). Cada sustancia cuenta con una descripción de ¿qué es?, efectos, consecuencias. Para que el padre de familia pueda saber si su hijo esta consumiendo alguna Droga. Ejemplo: "
+                app:layout_constraintTop_toBottomOf="@+id/textView20"
+                tools:layout_editor_absoluteX="0dp" />
+
+            <ImageView
+                android:id="@+id/imageView6"
+                android:layout_width="0dp"
+                android:layout_height="223dp"
+                android:layout_marginTop="16dp"
+                app:layout_constraintTop_toBottomOf="@+id/textView21"
+                app:srcCompat="@drawable/drogas_guia"
+                tools:layout_editor_absoluteX="0dp" />
+
+            <TextView
+                android:id="@+id/textView23"
+                android:layout_width="match_parent"
+                android:layout_height="42dp"
+                android:layout_marginTop="36dp"
+                android:background="@color/colorAccent"
+                android:paddingLeft="15dp"
+                android:paddingTop="7dp"
+                android:text="Menú Desplegable"
+                android:textColor="#FFF"
+                android:textSize="22sp"
+                android:textStyle="bold"
+                app:layout_constraintTop_toBottomOf="@+id/imageView6"
+                tools:ignore="MissingConstraints"
+                tools:layout_editor_absoluteX="101dp" />
+
+            <TextView
+                android:id="@+id/textView24"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="15dp"
+                android:textSize="18sp"
+                android:text="El menú desplegable cuenta con una serie de Pestañas muy importantes. Se encuentra Lugares de Ayuda, Blog, Test, Diccionario de Jergas, Bibliogafía, Guía para padres, Autores. Como se muestra a continuación:"
+                app:layout_constraintTop_toBottomOf="@+id/textView23"
+                tools:layout_editor_absoluteX="0dp" />
+
+            <ImageView
+                android:id="@+id/imageView7"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                app:layout_constraintTop_toBottomOf="@+id/textView24"
+                app:srcCompat="@drawable/menu_desplegable"
+                tools:layout_editor_absoluteX="39dp" />
+
+            <TextView
+                android:id="@+id/textView25"
+                android:layout_width="match_parent"
+                android:layout_height="36dp"
+                android:layout_marginTop="20dp"
+                android:paddingLeft="15dp"
+                android:paddingTop="7dp"
+                android:text="Pestaña de Lugares de ayuda"
+                android:textSize="22sp"
+                android:textStyle="bold"
+                app:layout_constraintTop_toBottomOf="@+id/imageView7"
+                tools:ignore="MissingConstraints"
+                tools:layout_editor_absoluteX="0dp" />
+
+            <TextView
+                android:id="@+id/textView26"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="15dp"
+                android:textSize="18sp"
+                android:paddingRight="15dp"
+                android:text="En la opción Lugares de Ayuda, los padres de familia o acudientes pueden encontrar un mapa con los sitios de Ayuda que hay en la ciudad, para que sepan como acercarce y recibir ayuda sobre algún problema que tenga su hijo con la drogadicción."
+                app:layout_constraintTop_toBottomOf="@+id/textView25"
+                tools:layout_editor_absoluteX="0dp" />
+
+            <TextView
+                android:id="@+id/textView27"
+                android:layout_width="match_parent"
+                android:layout_height="36dp"
+                android:layout_marginTop="8dp"
+                android:paddingLeft="15dp"
+                android:paddingTop="7dp"
+                android:text="Pestaña de Blog"
+                android:textSize="22sp"
+                android:textStyle="bold"
+                app:layout_constraintTop_toBottomOf="@+id/button1"
+                tools:ignore="MissingConstraints"
+                tools:layout_editor_absoluteX="0dp" />
+
+            <TextView
+                android:id="@+id/textView28"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="15dp"
+                android:textSize="18sp"
+                android:text="En el Blog se encuentra un Chat en tiempo Real, para que los padres de familia puedan comunicarce entre sí, para dar opiniones sobre algún problema que afecte a la comunidad o brindarse ayuda mutuamente sobre algún problema que tenga su hijo respecta a las drogas."
+                android:paddingRight="15dp"
+                app:layout_constraintTop_toBottomOf="@+id/textView27"
+                tools:layout_editor_absoluteX="0dp" />
+
+            <TextView
+                android:id="@+id/textView29"
+                android:layout_width="match_parent"
+                android:layout_height="36dp"
+                android:layout_marginTop="20dp"
+                android:paddingLeft="15dp"
+                android:paddingTop="7dp"
+                android:text="Pestaña de Test"
+                android:textSize="22sp"
+                android:textStyle="bold"
+                app:layout_constraintTop_toBottomOf="@+id/button_blog"
+                tools:ignore="MissingConstraints"
+                tools:layout_editor_absoluteX="0dp" />
+
+            <TextView
+                android:id="@+id/textView30"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="15dp"
+                android:textSize="18sp"
+                android:text="En el Test es muy importante ya que por medio de unas preguntas que brinda el Test, se puede dar una probabilidad de si su hijo consume o no, una sustancia Psicoactiva. "
+                android:paddingRight="15dp"
+                app:layout_constraintTop_toBottomOf="@+id/textView29"
+                tools:layout_editor_absoluteX="0dp" />
+
+            <TextView
+                android:id="@+id/textView31"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:paddingLeft="15dp"
+                android:paddingTop="7dp"
+                android:text="Pestaña de Diccionario de Jergas"
+                android:textSize="22sp"
+                android:textStyle="bold"
+                app:layout_constraintTop_toBottomOf="@+id/button_test"
+                tools:ignore="MissingConstraints"
+                tools:layout_editor_absoluteX="0dp" />
+
+            <TextView
+                android:id="@+id/textView32"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="15dp"
+                android:textSize="18sp"
+                android:text="En el diccionario de Jergas están las diferentes maneras de como decirle a cada tipo de droga que existe en el mercado, lo cual ocasiona de que los adolescentes tengan más de mil maneras de llamar a las drogas, para que así sus propios padres no se enteren que están consumiendo alguna Droga."
+                android:paddingRight="15dp"
+                app:layout_constraintTop_toBottomOf="@+id/textView31"
+                tools:layout_editor_absoluteX="0dp" />
+
+            <TextView
+                android:id="@+id/textView34"
+                android:layout_width="match_parent"
+                android:layout_height="36dp"
+                android:layout_marginTop="20dp"
+                android:paddingLeft="15dp"
+                android:paddingTop="7dp"
+                android:text="Pestaña de Bibliografía"
+                android:textSize="22sp"
+                android:textStyle="bold"
+                app:layout_constraintTop_toBottomOf="@+id/button_diccionario"
+                tools:ignore="MissingConstraints"
+                tools:layout_editor_absoluteX="0dp" />
+
+            <TextView
+                android:id="@+id/textView36"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="15dp"
+                android:textSize="18sp"
+                android:paddingRight="15dp"
+                android:text="En la bibliografía se encuentra todas las fuentes de información que se usaron para el desarrollo de la aplicación, esto se hizo con la intención de no tener problemas con los derechos de Autor."
+                app:layout_constraintTop_toBottomOf="@+id/textView34"
+                tools:layout_editor_absoluteX="0dp" />
+
+            <TextView
+                android:id="@+id/textView37"
+                android:layout_width="match_parent"
+                android:layout_height="36dp"
+                android:layout_marginTop="20dp"
+                android:paddingLeft="15dp"
+                android:paddingTop="7dp"
+                android:text="Pestaña de Autores"
+                android:textSize="22sp"
+                android:textStyle="bold"
+                app:layout_constraintTop_toBottomOf="@+id/button_bibliografia"
+                tools:ignore="MissingConstraints"
+                tools:layout_editor_absoluteX="0dp" />
+
+            <TextView
+                android:id="@+id/textView38"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="15dp"
+                android:textSize="18sp"
+                android:paddingRight="15dp"
+                android:text="En la pestaña autores, están los desarrolladores de la aplicación móvil 'Avanza Sin Drogas' Cabe resaltar que estos son estudiantes de la Institución Educativa Byron Gaviria, Ubicada en la ciudad de Pereira, Risaralda. "
+                app:layout_constraintTop_toBottomOf="@+id/textView37"
+                tools:layout_editor_absoluteX="0dp" />
+
+        </android.support.constraint.ConstraintLayout>
+    </ScrollView>
+
+</android.support.constraint.ConstraintLayout>
